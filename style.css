@@ -1,0 +1,245 @@
+/* SOLAR SYSTEM PAGE BELOW */
+.solar-background{
+    background-image: url(solar_system.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100%;
+}
+
+.planets-background{
+    background-image: url(planets-pic.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100%;
+}
+
+.information-background{
+    background-image: url(information-background.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100%;
+}
+
+.heading{
+    text-align: center;
+    font-size: 70px;
+    color: white;
+}    
+
+#para1{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    border:transparent;
+    width:450px;
+    background:transparent;
+}
+
+#para2{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    border:transparent;
+    width:450px;
+    background:transparent;
+}
+
+#para3{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    border:transparent;
+    width:450px;
+    background:transparent;
+}
+
+p{
+    color: white;
+}
+
+/* SOLAR SYSTEM PAGE FLEX */
+.text1{
+    display: flex;
+    justify-content: space-between;
+}
+
+text2{
+    display:flex;
+    justify-content: space-around;
+}
+
+
+/* PLANETS PAGE BELOW */
+#para4{
+    font-size: 20px;
+    color:white;
+    box-sizing: border-box; 
+    background:rgba(255, 255, 255, 0.4);
+    width:300px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+#para5{
+    font-size: 20px;
+    color:white;
+    box-sizing: border-box; 
+    background:rgba(255, 255, 255, 0.4);
+    width:300px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+#para6{
+    font-size: 20px;
+    color:white;
+    box-sizing: border-box; 
+    background:rgba(255, 255, 255, 0.4);
+    width:300px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+#para7{
+    font-size: 20px;
+    color:white;
+    box-sizing: border-box; 
+    background:rgba(255, 255, 255, 0.4);
+    width:300px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+#para8{
+    font-size: 20px;
+    color:white;
+    box-sizing: border-box; 
+    background:rgba(255, 255, 255, 0.4);
+    width:300px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+#para9{
+    font-size: 20px;
+    color:white;
+    box-sizing: border-box; 
+    background:rgba(255, 255, 255, 0.4);
+    width:300px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+#para10{
+    font-size: 20px;
+    color:white;
+    box-sizing: border-box; 
+    background:rgba(255, 255, 255, 0.4);
+    width:300px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+#para11{
+    font-size: 20px;
+    color:white;
+    box-sizing: border-box; 
+    background:rgba(255, 255, 255, 0.4);
+    width:300px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+/* PLANETS PAGE FLEX BELOW */
+
+.pic2{
+    display: flex;
+    justify-content: center;
+    opacity: 0.7;
+}
+
+.text3{
+    display:flex;
+    justify-content: center;
+}
+
+.text4{
+    display:flex;
+    justify-content: center;
+}
+
+.text5{
+    display:flex;
+    justify-content: center;
+}
+
+.text6{
+    display:flex;
+    justify-content: center;
+}
+
+/* INFORMATION PAGE BELOW */
+
+#para12{
+    font-size: 20px;
+    color:white;
+    width:300px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+#para13{
+    font-size: 20px;
+    color:white;
+    width:400px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+
+
+/* INFORMATION PAGE FLEX/LINK STYLES */
+
+a:link {
+    color: rgb(225, 255, 0);
+  }
+
+  .text7{
+    display:flex;
+    justify-content: left;
+}
+
+/* NAVBAR STUFF BELOW */
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: grey;
+}
+
+#navbar a{
+    color: white;
+    text-decoration: none;
+}
+
+/* h1, h2 {
+    display: flex;
+    justify-content: center;
+    color: seagreen;
+    font-size: 45px;
+    text-shadow: black 1px 1px;
+}            THIS IS IF YOU WANT TO HAVE BNOTH THE HEADINGS STYLED THE EXACT SAME*/
